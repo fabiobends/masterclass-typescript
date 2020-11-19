@@ -3,7 +3,7 @@ This is a tutorial from Rocketseat about using TypeScript on React projects and 
 
 In this tutorial I learned how to set up TypeScript for a web app. This repo is based in:
 
-- [NodeJS](https://www.nodejs.org)
+- [Node.js](https://www.nodejs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
 Consider hiring me as Front-end developer 👨‍💻!
